@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\ChatCrab_1.0\x64\Debug\ChatCrab_1.0.exe
+C:\Users\USER\Desktop\,\Сучеба\9 модуль\ChatCrab_1.0\x64\Debug\ChatCrab_1.0.exe
+C:\Users\USER\Desktop\,\Сучеба\9 модуль\ChatCrab_1.2\x64\Debug\ChatCrab_1.0.exe
+C:\Users\USER\Desktop\Сучеба\9 модуль\ChatCrab_1.2\x64\Debug\ChatCrab_1.0.exe
+C:\Users\USER\Desktop\Сучеба\9 модуль\ChatCrab_1.3\x64\Debug\ChatCrab_1.0.exe
+C:\Users\USER\Desktop\Сучеба\9 модуль\ChatCrab_1.6\x64\Debug\ChatCrab_1.0.exe
